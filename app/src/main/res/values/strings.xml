@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LogIn</string>
+    <string name="user_name">username</string>
+    <string name="txt_password">password</string>
+    <string name="txt_log_in">Log in</string>
+    <string name="txt_register_now">Register now</string>
 </resources>
