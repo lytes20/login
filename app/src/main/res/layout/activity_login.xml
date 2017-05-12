@@ -9,11 +9,11 @@
     android:hint="@string/user_name"
     />
     <EditText
-        android:id="@+id/edit_txt_password"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="@string/txt_password"
-        />
+    android:id="@+id/edit_txt_password"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="@string/txt_password"
+    />
     <Button
         android:id="@+id/btn_login"
         android:layout_width="wrap_content"
