@@ -9,6 +9,12 @@
         android:hint="@string/txt_name"
         />
     <EditText
+        android:id="@+id/edit_txt_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="email"
+        />
+    <EditText
         android:id="@+id/edit_txt_username"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
